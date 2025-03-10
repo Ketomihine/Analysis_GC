@@ -1,0 +1,11 @@
+# **Landscape of spatial disruption and plasma cells infiltration of early gastric cancer in Gastric Mucosa**
+
+This repository contains the scripts to reproduce the result of the manuscript [***Landscape of spatial disruption and plasma cells infiltration of early gastric cancer in Gastric Mucosa***]( )
+
+## Abstract
+
+Gastric cancer, a leading cause of cancer-related mortality, predominantly affects the gastric mucosa. Despite advancements in molecular characterization, the spatial dynamics within the gastric mucosa during early gastric cancer remain poorly understood. This study integrates spatial transcriptomics (ST) and single-cell RNA sequencing (scRNA-seq) to elucidate the spatial disruption and plasma cell infiltration in early gastric cancer. Our results reveal distinct transcriptional profiles and spatial interactions, identifying unique cancer cell states and immune landscapes. Plasma cell infiltration and the disruption of spatial homeostasis are critical in early gastric cancer progression. We observe significant alterations in immune cell spatial distribution, correlating with changes in epithelial and stromal populations, suggesting dynamic cancer-immune cell interplay. Spatial transcriptomics identifies unique regions within the gastric mucosa, highlighting a vascular area and a cancerous zone with substantial lymphocyte and myeloid cell infiltration. Using the Spatial Transition Tensor (STT) algorithm, we identify spatial attractors like the lymphocytic infiltration attractor, elucidating immune cell spatial organization and its impact on tumor behavior. Dysregulated spatial communication signals reveal potential therapeutic targets, with drug prediction analysis suggesting compounds such as Escitalopram and Nicorandil as promising interventions. This integrative approach advances our understanding of early gastric cancer pathogenesis, providing novel insights into spatial and cellular dynamics and laying the groundwork for precision medicine approaches in its management.
+
+## Contact
+
+- Zehua Zeng (starlitnightly@163.com)
